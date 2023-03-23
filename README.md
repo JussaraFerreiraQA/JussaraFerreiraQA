@@ -18,7 +18,7 @@ Futura Analista de Testes e Qualidade de Softwares
 
 &nbsp;&nbsp;&nbsp;[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jussara-rosa)&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;<a href = "mailto:jussarar308@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+&nbsp;&nbsp;&nbsp;<a href = "mailto:contato@jussarar308@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ⚡ Curiosidades:
 - Também me chamam de "Sara"
