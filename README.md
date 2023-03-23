@@ -24,4 +24,4 @@ Futura Analista de Testes e Qualidade de Softwares
 - Também me chamam de "Sara"
 - Sou Farmacêutica Formada pela UNIP
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jussararosaqa/jussararosaqa/blob/output/github-contribution-grid-snake.svg)
