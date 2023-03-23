@@ -11,13 +11,14 @@ Futura Analista de Testes e Qualidade de Softwares
   &nbsp;&nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" />
   
+  
   </div>
 
 📫 Como chegar até mim:
 
 &nbsp;&nbsp;&nbsp;[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jussara-rosa)&nbsp;&nbsp;&nbsp;
 
-<a href = "mailto:contato@jussarar308"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+&nbsp;&nbsp;&nbsp;<a href = "mailto:jussarar308@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ⚡ Curiosidades:
 - Também me chamam de "Sara"
