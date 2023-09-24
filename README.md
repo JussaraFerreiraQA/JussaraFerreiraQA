@@ -6,10 +6,11 @@ Futura Analista de Testes e Qualidade de Softwares
 💻 Atualmente estou aprendendo mais sobre:
 
 <div style="display: inline">
-  &nbsp;&nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  
   &nbsp;&nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;<img widht="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;<img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
+  &nbsp;&nbsp;&nbsp;<img alt="Cypress" height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg">
   
   
   </div>
