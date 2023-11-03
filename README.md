@@ -1,7 +1,5 @@
 ### Olá, Sejam bem vindos ao meu GitHub, me Chamo Jussara Ferreira 😄👋
-Futura Analista de Testes e Qualidade de Softwares
-
-✨ ***Estou em busca de uma oportunidade como QA*** ✨
+Sou Analista de Testes e Qualidade de Softwares
 
 💻 Atualmente estou aprendendo mais sobre:
 
